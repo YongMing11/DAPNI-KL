@@ -1,0 +1,2 @@
+# DAPNI - Digital Asset Protection and Inheritance
+Digital Asset Protection And Inheritance (DAPNI) secures your digital assets & private key inheritance with advanced encryption, ensuring they are passed down safely to your beneficiaries.
